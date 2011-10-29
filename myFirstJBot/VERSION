@@ -1,0 +1,9 @@
+This starter package zip was published on Mon Oct 24 23:57:56 UTC 2011.
+
+Last change on this starter package was:
+commit 2a0d0c7a8d22c4ce704fbd27cb851dfd1019b680
+Date:   Sun Oct 23 19:23:07 2011 -0400
+
+    Really fixed java Makefile. Added jar to be a proper target in the makefile
+
+Check https://github.com/aichallenge/aichallenge/tree/epsilon/ants/dist/starter_bots/java for new versions.

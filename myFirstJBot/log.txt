@@ -1,0 +1,846 @@
+Creating Ant 28 19
+ant@28 19 getting food @35 19 dist=49 imp=51.0
+ant@28 19 getting food @26 19 dist=4 imp=96.0
+ant@28 19 getting food @28 17 dist=4 imp=96.0
+ant@28 19 getting food @28 21 dist=4 imp=96.0
+moving ant (28 19)) withImpulse -imp@[26 19] $:96.0 t:[NORTH]->NORTH
+Creating Ant 27 19
+ant@27 19 getting food @28 17 dist=5 imp=95.0
+ant@27 19 getting food @28 21 dist=5 imp=95.0
+moving ant (27 19)) withImpulse -imp@[28 17] $:95.0 t:[WEST, SOUTH]->WEST
+Creating Ant 27 18
+ant@27 18 getting food @35 19 dist=65 imp=35.0
+ant@27 18 getting food @28 17 dist=2 imp=98.0
+ant@27 18 getting food @28 21 dist=10 imp=90.0
+Creating Ant 28 19
+ant@28 19 getting food @35 19 dist=49 imp=51.0
+ant@28 19 getting food @28 17 dist=4 imp=96.0
+ant@28 19 getting food @28 21 dist=4 imp=96.0
+moving ant (27 18)) withImpulse -imp@[28 17] $:98.0 t:[SOUTH, WEST]->SOUTH
+moving ant (28 19)) withImpulse -imp@[28 17] $:96.0 t:[WEST]imp@[28 21] $:96.0 t:[EAST]->EAST
+Creating Ant 28 18
+ant@28 18 getting food @35 19 dist=50 imp=50.0
+Creating Ant 28 20
+ant@28 20 getting food @35 19 dist=50 imp=50.0
+moving ant (28 18)) withImpulse -imp@[35 19] $:50.0 t:[SOUTH, EAST]->SOUTH
+moving ant (28 20)) withImpulse -imp@[35 19] $:50.0 t:[WEST, SOUTH]->WEST
+Creating Ant 29 18
+ant@29 18 getting food @35 19 dist=37 imp=63.0
+Creating Ant 28 19
+ant@28 19 getting food @35 19 dist=49 imp=51.0
+moving ant (29 18)) withImpulse -imp@[35 19] $:63.0 t:[EAST, SOUTH]->EAST
+moving ant (28 19)) withImpulse -imp@[35 19] $:51.0 t:[SOUTH] - randomly -->WEST
+Creating Ant 29 19
+ant@29 19 getting food @35 19 dist=36 imp=64.0
+Creating Ant 28 18
+ant@28 18 getting food @35 19 dist=50 imp=50.0
+Creating Ant 28 19
+ant@28 19 getting food @35 19 dist=49 imp=51.0
+moving ant (29 19)) withImpulse -imp@[35 19] $:64.0 t:[SOUTH]->SOUTH
+moving ant (28 18)) withImpulse -imp@[35 19] $:50.0 t:[SOUTH, EAST]->SOUTH
+moving ant (28 19)) withImpulse -imp@[35 19] $:51.0 t:[SOUTH] - randomly -->NORTH
+Creating Ant 27 19
+ant@27 19 getting food @35 19 dist=64 imp=36.0
+Creating Ant 29 18
+ant@29 18 getting food @35 19 dist=37 imp=63.0
+Creating Ant 28 19
+ant@28 19 getting food @35 19 dist=49 imp=51.0
+Creating Ant 30 19
+ant@30 19 getting food @35 19 dist=25 imp=75.0
+moving ant (27 19)) withImpulse -imp@[35 19] $:36.0 t:[SOUTH] - randomly -->WEST
+moving ant (29 18)) withImpulse -imp@[35 19] $:63.0 t:[SOUTH, EAST]->SOUTH
+moving ant (28 19)) withImpulse -imp@[35 19] $:51.0 t:[SOUTH]->SOUTH
+moving ant (30 19)) withImpulse -imp@[35 19] $:75.0 t:[SOUTH]->SOUTH
+Creating Ant 27 18
+ant@27 18 getting food @35 19 dist=65 imp=35.0
+ant@27 18 getting food @35 13 dist=89 imp=11.0
+ant@27 18 getting food @35 25 dist=113 imp=0.0
+Creating Ant 29 19
+ant@29 19 getting food @35 19 dist=36 imp=64.0
+ant@29 19 getting food @35 13 dist=72 imp=28.0
+ant@29 19 getting food @35 25 dist=72 imp=28.0
+Creating Ant 31 19
+ant@31 19 getting food @35 19 dist=16 imp=84.0
+ant@31 19 getting food @35 13 dist=52 imp=48.0
+ant@31 19 getting food @35 25 dist=52 imp=48.0
+Creating Ant 30 18
+ant@30 18 getting food @35 19 dist=26 imp=74.0
+ant@30 18 getting food @35 13 dist=50 imp=50.0
+ant@30 18 getting food @35 25 dist=74 imp=26.0
+moving ant (27 18)) withImpulse -imp@[35 19] $:35.0 t:[EAST, SOUTH]->EAST
+moving ant (29 19)) withImpulse -imp@[35 19] $:64.0 t:[SOUTH]->SOUTH
+moving ant (31 19)) withImpulse -imp@[35 19] $:84.0 t:[SOUTH]->SOUTH
+moving ant (30 18)) withImpulse -imp@[35 19] $:74.0 t:[EAST, SOUTH]imp@[35 13] $:50.0 t:[SOUTH, WEST]->SOUTH
+Creating Ant 32 19
+ant@32 19 getting food @35 19 dist=9 imp=91.0
+ant@32 19 getting food @35 13 dist=45 imp=55.0
+ant@32 19 getting food @35 25 dist=45 imp=55.0
+Creating Ant 27 19
+ant@27 19 getting food @35 19 dist=64 imp=36.0
+ant@27 19 getting food @35 13 dist=100 imp=0.0
+ant@27 19 getting food @35 25 dist=100 imp=0.0
+Creating Ant 31 18
+ant@31 18 getting food @35 19 dist=17 imp=83.0
+ant@31 18 getting food @35 13 dist=41 imp=59.0
+ant@31 18 getting food @35 25 dist=65 imp=35.0
+Creating Ant 30 19
+ant@30 19 getting food @35 19 dist=25 imp=75.0
+ant@30 19 getting food @35 13 dist=61 imp=39.0
+ant@30 19 getting food @35 25 dist=61 imp=39.0
+moving ant (32 19)) withImpulse -imp@[35 19] $:91.0 t:[SOUTH]->SOUTH
+moving ant (27 19)) withImpulse -imp@[35 19] $:36.0 t:[SOUTH]->SOUTH
+moving ant (31 18)) withImpulse -imp@[35 19] $:83.0 t:[SOUTH, EAST]->SOUTH
+moving ant (30 19)) withImpulse -imp@[35 19] $:75.0 t:[SOUTH]->SOUTH
+Creating Ant 32 18
+ant@32 18 getting food @35 19 dist=10 imp=90.0
+ant@32 18 getting food @35 13 dist=34 imp=66.0
+ant@32 18 getting food @35 25 dist=58 imp=42.0
+Creating Ant 33 19
+ant@33 19 getting food @35 19 dist=4 imp=96.0
+ant@33 19 getting food @35 13 dist=40 imp=60.0
+ant@33 19 getting food @35 25 dist=40 imp=60.0
+Creating Ant 28 19
+ant@28 19 getting food @35 19 dist=49 imp=51.0
+ant@28 19 getting food @35 13 dist=85 imp=15.0
+ant@28 19 getting food @35 25 dist=85 imp=15.0
+Creating Ant 31 19
+ant@31 19 getting food @35 19 dist=16 imp=84.0
+ant@31 19 getting food @35 13 dist=52 imp=48.0
+ant@31 19 getting food @35 25 dist=52 imp=48.0
+moving ant (32 18)) withImpulse -imp@[35 19] $:90.0 t:[EAST, SOUTH]->EAST
+moving ant (33 19)) withImpulse -imp@[35 19] $:96.0 t:[SOUTH]->SOUTH
+moving ant (28 19)) withImpulse -imp@[35 19] $:51.0 t:[SOUTH]->SOUTH
+moving ant (31 19)) withImpulse -imp@[35 19] $:84.0 t:[SOUTH]imp@[35 13] $:48.0 t:[SOUTH, WEST]imp@[35 25] $:48.0 t:[EAST, SOUTH]->EAST
+Creating Ant 32 19
+ant@32 19 getting food @35 13 dist=45 imp=55.0
+ant@32 19 getting food @35 25 dist=45 imp=55.0
+Creating Ant 34 19
+ant@34 19 getting food @35 13 dist=37 imp=63.0
+ant@34 19 getting food @35 25 dist=37 imp=63.0
+Creating Ant 29 19
+ant@29 19 getting food @35 13 dist=72 imp=28.0
+ant@29 19 getting food @35 25 dist=72 imp=28.0
+Creating Ant 31 20
+ant@31 20 getting food @35 13 dist=65 imp=35.0
+ant@31 20 getting food @35 25 dist=41 imp=59.0
+moving ant (32 19)) withImpulse -imp@[35 13] $:55.0 t:[WEST, SOUTH]->WEST
+moving ant (34 19)) withImpulse -imp@[35 13] $:63.0 t:[SOUTH, WEST]imp@[35 25] $:63.0 t:[EAST, SOUTH]->EAST
+moving ant (29 19)) withImpulse -imp@[35 13] $:28.0 t:[WEST, SOUTH]->WEST
+moving ant (31 20)) withImpulse -imp@[35 25] $:59.0 t:[SOUTH, EAST]->SOUTH
+Creating Ant 32 18
+ant@32 18 getting food @35 13 dist=34 imp=66.0
+ant@32 18 getting food @35 25 dist=58 imp=42.0
+Creating Ant 34 20
+ant@34 20 getting food @35 13 dist=50 imp=50.0
+ant@34 20 getting food @35 25 dist=26 imp=74.0
+Creating Ant 32 20
+ant@32 20 getting food @35 13 dist=58 imp=42.0
+ant@32 20 getting food @35 25 dist=34 imp=66.0
+Creating Ant 29 18
+ant@29 18 getting food @35 13 dist=61 imp=39.0
+ant@29 18 getting food @35 25 dist=85 imp=15.0
+Creating Ant 28 19
+ant@28 19 getting food @35 13 dist=85 imp=15.0
+ant@28 19 getting food @35 25 dist=85 imp=15.0
+moving ant (32 18)) withImpulse -imp@[35 13] $:66.0 t:[WEST, SOUTH]->WEST
+moving ant (34 20)) withImpulse -imp@[35 25] $:74.0 t:[EAST, SOUTH]->EAST
+moving ant (32 20)) withImpulse -imp@[35 25] $:66.0 t:[SOUTH, EAST]->SOUTH
+moving ant (29 18)) withImpulse -imp@[35 13] $:39.0 t:[WEST, SOUTH]->WEST
+moving ant (28 19)) withImpulse -imp@[35 13] $:15.0 t:[WEST, SOUTH]->WEST
+Creating Ant 34 21
+ant@34 21 getting food @35 13 dist=65 imp=35.0
+ant@34 21 getting food @35 25 dist=17 imp=83.0
+Creating Ant 32 17
+ant@32 17 getting food @35 13 dist=25 imp=75.0
+ant@32 17 getting food @35 25 dist=73 imp=27.0
+Creating Ant 33 20
+ant@33 20 getting food @35 13 dist=53 imp=47.0
+ant@33 20 getting food @35 25 dist=29 imp=71.0
+Creating Ant 28 18
+ant@28 18 getting food @35 13 dist=74 imp=26.0
+ant@28 18 getting food @35 25 dist=98 imp=2.0
+Creating Ant 29 17
+ant@29 17 getting food @35 13 dist=52 imp=48.0
+ant@29 17 getting food @35 25 dist=100 imp=0.0
+moving ant (34 21)) withImpulse -imp@[35 25] $:83.0 t:[SOUTH, EAST]->SOUTH
+moving ant (32 17)) withImpulse -imp@[35 13] $:75.0 t:[WEST, SOUTH]->WEST
+moving ant (33 20)) withImpulse -imp@[35 25] $:71.0 t:[SOUTH, EAST]->SOUTH
+moving ant (28 18)) withImpulse -imp@[35 13] $:26.0 t:[WEST, SOUTH]imp@[35 25] $:2.0 t:[EAST, SOUTH]->EAST
+moving ant (29 17)) withImpulse -imp@[35 13] $:48.0 t:[WEST, SOUTH]->WEST
+Creating Ant 35 21
+ant@35 21 getting food @35 13 dist=64 imp=36.0
+ant@35 21 getting food @35 25 dist=16 imp=84.0
+Creating Ant 34 20
+ant@34 20 getting food @35 13 dist=50 imp=50.0
+ant@34 20 getting food @35 25 dist=26 imp=74.0
+Creating Ant 32 16
+ant@32 16 getting food @35 13 dist=18 imp=82.0
+ant@32 16 getting food @35 25 dist=90 imp=10.0
+Creating Ant 29 16
+ant@29 16 getting food @35 13 dist=45 imp=55.0
+ant@29 16 getting food @35 25 dist=117 imp=0.0
+Creating Ant 28 19
+ant@28 19 getting food @35 13 dist=85 imp=15.0
+ant@28 19 getting food @35 25 dist=85 imp=15.0
+moving ant (35 21)) withImpulse -imp@[35 25] $:84.0 t:[EAST]->EAST
+moving ant (34 20)) withImpulse -imp@[35 25] $:74.0 t:[SOUTH, EAST]->SOUTH
+moving ant (32 16)) withImpulse -imp@[35 13] $:82.0 t:[SOUTH, WEST]->SOUTH
+moving ant (29 16)) withImpulse -imp@[35 13] $:55.0 t:[SOUTH, WEST]->SOUTH
+moving ant (28 19)) withImpulse -imp@[35 13] $:15.0 t:[SOUTH, WEST]->SOUTH
+Creating Ant 35 20
+ant@35 20 getting food @35 13 dist=49 imp=51.0
+ant@35 20 getting food @35 25 dist=25 imp=75.0
+Creating Ant 33 16
+ant@33 16 getting food @35 13 dist=13 imp=87.0
+ant@33 16 getting food @35 25 dist=85 imp=15.0
+Creating Ant 35 22
+ant@35 22 getting food @35 13 dist=81 imp=19.0
+ant@35 22 getting food @35 25 dist=9 imp=91.0
+Creating Ant 29 19
+ant@29 19 getting food @35 13 dist=72 imp=28.0
+ant@29 19 getting food @35 25 dist=72 imp=28.0
+Creating Ant 30 16
+ant@30 16 getting food @35 13 dist=34 imp=66.0
+ant@30 16 getting food @35 25 dist=106 imp=0.0
+moving ant (35 20)) withImpulse -imp@[35 25] $:75.0 t:[EAST]->EAST
+moving ant (33 16)) withImpulse -imp@[35 13] $:87.0 t:[WEST, SOUTH]->WEST
+moving ant (35 22)) withImpulse -imp@[35 25] $:91.0 t:[EAST]->EAST
+moving ant (29 19)) withImpulse -imp@[35 13] $:28.0 t:[WEST, SOUTH]->WEST
+moving ant (30 16)) withImpulse -imp@[35 13] $:66.0 t:[SOUTH, WEST]->SOUTH
+Creating Ant 35 21
+ant@35 21 getting food @35 13 dist=64 imp=36.0
+ant@35 21 getting food @35 25 dist=16 imp=84.0
+Creating Ant 35 23
+ant@35 23 getting food @35 13 dist=100 imp=0.0
+ant@35 23 getting food @35 25 dist=4 imp=96.0
+Creating Ant 29 18
+ant@29 18 getting food @35 13 dist=61 imp=39.0
+ant@29 18 getting food @35 25 dist=85 imp=15.0
+Creating Ant 31 16
+ant@31 16 getting food @35 13 dist=25 imp=75.0
+ant@31 16 getting food @35 25 dist=97 imp=3.0
+Creating Ant 33 15
+ant@33 15 getting food @35 13 dist=8 imp=92.0
+ant@33 15 getting food @35 25 dist=104 imp=0.0
+moving ant (35 21)) withImpulse -imp@[35 25] $:84.0 t:[EAST]->EAST
+moving ant (35 23)) withImpulse -imp@[35 25] $:96.0 t:[EAST]->EAST
+moving ant (29 18)) withImpulse -imp@[35 13] $:39.0 t:[SOUTH, WEST]->SOUTH
+moving ant (31 16)) withImpulse -imp@[35 13] $:75.0 t:[SOUTH, WEST]->SOUTH
+moving ant (33 15)) withImpulse -imp@[35 13] $:92.0 t:[SOUTH, WEST]->SOUTH
+Creating Ant 35 22
+ant@35 22 getting food @35 13 dist=81 imp=19.0
+Creating Ant 32 16
+ant@32 16 getting food @35 13 dist=18 imp=82.0
+Creating Ant 34 15
+ant@34 15 getting food @35 13 dist=5 imp=95.0
+Creating Ant 35 24
+ant@35 24 getting food @35 13 dist=121 imp=0.0
+Creating Ant 30 18
+ant@30 18 getting food @35 13 dist=50 imp=50.0
+moving ant (35 22)) withImpulse -imp@[35 13] $:19.0 t:[WEST]->WEST
+moving ant (32 16)) withImpulse -imp@[35 13] $:82.0 t:[WEST, SOUTH]->WEST
+moving ant (34 15)) withImpulse -imp@[35 13] $:95.0 t:[SOUTH, WEST]->SOUTH
+moving ant (35 24) - randomly -->SOUTH
+moving ant (30 18)) withImpulse -imp@[35 13] $:50.0 t:[WEST, SOUTH]->WEST
+Creating Ant 35 21
+ant@35 21 getting food @35 13 dist=64 imp=36.0
+Creating Ant 36 24
+ant@36 24 getting food @35 13 dist=122 imp=0.0
+Creating Ant 35 15
+ant@35 15 getting food @35 13 dist=4 imp=96.0
+Creating Ant 28 19
+ant@28 19 getting food @35 13 dist=85 imp=15.0
+Creating Ant 32 15
+ant@32 15 getting food @35 13 dist=13 imp=87.0
+Creating Ant 30 17
+ant@30 17 getting food @35 13 dist=41 imp=59.0
+moving ant (35 21)) withImpulse -imp@[35 13] $:36.0 t:[WEST]->WEST
+moving ant (36 24) - randomly -->NORTH
+moving ant (35 15)) withImpulse -imp@[35 13] $:96.0 t:[WEST]->WEST
+moving ant (28 19)) withImpulse -imp@[35 13] $:15.0 t:[WEST, SOUTH]->WEST
+moving ant (32 15)) withImpulse -imp@[35 13] $:87.0 t:[SOUTH, WEST]->SOUTH
+moving ant (30 17)) withImpulse -imp@[35 13] $:59.0 t:[WEST, SOUTH]->WEST
+Creating Ant 35 20
+Creating Ant 35 14
+Creating Ant 28 18
+Creating Ant 30 16
+Creating Ant 35 24
+Creating Ant 33 15
+moving ant (35 20) - randomly -->SOUTH
+moving ant (35 14) - randomly -->SOUTH
+moving ant (28 18) - randomly -->EAST
+moving ant (30 16) - randomly -->WEST
+moving ant (35 24) - randomly -->WEST
+moving ant (33 15) - randomly -->NORTH
+Creating Ant 35 23
+Creating Ant 30 15
+Creating Ant 36 14
+Creating Ant 28 19
+Creating Ant 32 15
+Creating Ant 36 20
+moving ant (35 23) - randomly -->SOUTH
+moving ant (30 15) - randomly -->EAST
+moving ant (36 14) - randomly -->NORTH
+moving ant (28 19) - randomly -->EAST
+moving ant (32 15) - randomly -->SOUTH
+moving ant (36 20) - randomly -->WEST
+Creating Ant 36 19
+Creating Ant 35 14
+Creating Ant 28 19
+Creating Ant 36 23
+Creating Ant 30 16
+Creating Ant 28 20
+Creating Ant 33 15
+moving ant (36 19) - randomly -->WEST
+moving ant (35 14) - randomly -->EAST
+moving ant (28 19) - randomly -->SOUTH
+moving ant (36 23) - randomly -->SOUTH
+moving ant (30 16) - randomly -->SOUTH
+moving ant (28 20) - randomly -->NORTH
+moving ant (33 15) - randomly -->EAST
+Creating Ant 33 16
+Creating Ant 27 20
+Creating Ant 36 18
+Creating Ant 29 19
+Creating Ant 35 15
+Creating Ant 37 23
+Creating Ant 31 16
+moving ant (33 16) - randomly -->NORTH
+moving ant (27 20) - randomly -->SOUTH
+moving ant (36 18) - randomly -->WEST
+moving ant (29 19) - randomly -->NORTH
+moving ant (35 15) - randomly -->EAST
+moving ant (37 23) - randomly -->EAST
+moving ant (31 16) - randomly -->WEST
+Creating Ant 31 15
+Creating Ant 37 24
+Creating Ant 32 16
+Creating Ant 35 16
+Creating Ant 36 17
+Creating Ant 28 19
+Creating Ant 28 20
+moving ant (31 15) - randomly -->EAST
+moving ant (37 24) - randomly -->WEST
+moving ant (32 16) - randomly -->EAST
+moving ant (35 16) - randomly -->SOUTH
+moving ant (36 17) - randomly -->SOUTH
+moving ant (28 19) - randomly -->NORTH
+moving ant (28 20) - randomly -->NORTH
+Creating Ant 32 17
+Creating Ant 27 20
+Creating Ant 27 19
+Creating Ant 37 17
+Creating Ant 36 16
+Creating Ant 37 23
+Creating Ant 31 16
+moving ant (32 17) - randomly -->EAST
+moving ant (27 20) - randomly -->EAST
+moving ant (27 19) - randomly -->WEST
+moving ant (37 17) - randomly -->NORTH
+moving ant (36 16) - randomly -->SOUTH
+moving ant (37 23) - randomly -->SOUTH
+moving ant (31 16) - randomly -->NORTH
+Creating Ant 32 18
+Creating Ant 27 21
+Creating Ant 27 18
+Creating Ant 38 23
+Creating Ant 37 16
+Creating Ant 36 17
+Creating Ant 30 16
+moving ant (32 18) - randomly -->SOUTH
+moving ant (27 21) - randomly -->NORTH
+moving ant (27 18) - randomly -->WEST
+moving ant (38 23) - randomly -->NORTH
+moving ant (37 16) - randomly -->NORTH
+moving ant (36 17) - randomly -->SOUTH
+moving ant (30 16) - randomly -->WEST
+Creating Ant 26 21
+Creating Ant 30 15
+Creating Ant 33 18
+Creating Ant 27 17
+Creating Ant 37 17
+Creating Ant 36 16
+Creating Ant 37 23
+moving ant (26 21) - randomly -->EAST
+moving ant (30 15) - randomly -->WEST
+moving ant (33 18) - randomly -->WEST
+moving ant (27 17) - randomly -->NORTH
+moving ant (37 17) - randomly -->EAST
+moving ant (36 16) - randomly -->NORTH
+moving ant (37 23) - randomly -->NORTH
+Creating Ant 33 17
+Creating Ant 26 22
+Creating Ant 30 14
+Creating Ant 35 16
+Creating Ant 26 17
+Creating Ant 37 18
+Creating Ant 36 23
+moving ant (33 17) - randomly -->SOUTH
+moving ant (26 22) - randomly -->WEST
+moving ant (30 14) - randomly -->WEST
+moving ant (35 16) - randomly -->EAST
+moving ant (26 17) - randomly -->SOUTH
+moving ant (37 18) - randomly -->NORTH
+moving ant (36 23) - randomly -->NORTH
+Creating Ant 30 13
+Creating Ant 26 21
+Creating Ant 35 23
+Creating Ant 35 17
+Creating Ant 34 17
+Creating Ant 27 17
+Creating Ant 36 18
+moving ant (30 13) - randomly -->SOUTH
+moving ant (26 21) - randomly -->SOUTH
+moving ant (35 23) - randomly -->EAST
+moving ant (35 17) - randomly -->SOUTH
+moving ant (34 17) - randomly -->EAST
+moving ant (27 17) - randomly -->EAST
+moving ant (36 18) - randomly -->EAST
+Creating Ant 31 13
+Creating Ant 27 21
+Creating Ant 27 18
+Creating Ant 34 18
+Creating Ant 36 19
+Creating Ant 36 17
+Creating Ant 35 24
+moving ant (31 13) - randomly -->EAST
+moving ant (27 21) - randomly -->NORTH
+moving ant (27 18) - randomly -->WEST
+moving ant (34 18) - randomly -->SOUTH
+moving ant (36 19) - randomly -->EAST
+moving ant (36 17) - randomly -->WEST
+moving ant (35 24) - randomly -->NORTH
+Creating Ant 31 14
+Creating Ant 26 21
+Creating Ant 35 18
+Creating Ant 27 17
+Creating Ant 36 16
+Creating Ant 36 20
+Creating Ant 34 24
+moving ant (31 14) - randomly -->NORTH
+moving ant (26 21) - randomly -->NORTH
+moving ant (35 18) - randomly -->NORTH
+moving ant (27 17) - randomly -->EAST
+moving ant (36 16) - randomly -->SOUTH
+moving ant (36 20) - randomly -->NORTH
+moving ant (34 24) - randomly -->SOUTH
+Creating Ant 35 20
+Creating Ant 30 14
+Creating Ant 27 18
+Creating Ant 34 18
+Creating Ant 25 21
+Creating Ant 37 16
+Creating Ant 35 24
+moving ant (35 20) - randomly -->SOUTH
+moving ant (30 14) - randomly -->NORTH
+moving ant (27 18) - randomly -->NORTH
+moving ant (34 18) - randomly -->NORTH
+moving ant (25 21) - randomly -->WEST
+moving ant (37 16) - randomly -->WEST
+moving ant (35 24) - randomly -->WEST
+Creating Ant 35 23
+Creating Ant 33 18
+Creating Ant 29 14
+Creating Ant 26 18
+Creating Ant 25 20
+Creating Ant 37 15
+Creating Ant 36 20
+moving ant (35 23) - randomly -->EAST
+moving ant (33 18) - randomly -->NORTH
+moving ant (29 14) - randomly -->NORTH
+moving ant (26 18) - randomly -->SOUTH
+moving ant (25 20) - randomly -->NORTH
+moving ant (37 15) - randomly -->NORTH
+moving ant (36 20) - randomly -->WEST
+Creating Ant 32 18
+Creating Ant 27 18
+Creating Ant 24 20
+Creating Ant 36 15
+Creating Ant 28 14
+Creating Ant 36 19
+Creating Ant 35 24
+moving ant (32 18) - randomly -->WEST
+moving ant (27 18) - randomly -->SOUTH
+moving ant (24 20) - randomly -->SOUTH
+moving ant (36 15) - randomly -->NORTH
+moving ant (28 14) - randomly -->EAST
+moving ant (36 19) - randomly -->EAST
+moving ant (35 24) - randomly -->WEST
+Creating Ant 35 23
+Creating Ant 32 17
+Creating Ant 28 15
+Creating Ant 25 20
+Creating Ant 28 18
+Creating Ant 35 15
+Creating Ant 36 20
+moving ant (35 23) - randomly -->SOUTH
+moving ant (32 17) - randomly -->SOUTH
+moving ant (28 15) - randomly -->NORTH
+moving ant (25 20) - randomly -->EAST
+moving ant (28 18) - randomly -->SOUTH
+moving ant (35 15) - randomly -->SOUTH
+moving ant (36 20) - randomly -->NORTH
+Creating Ant 33 17
+Creating Ant 35 20
+Creating Ant 36 15
+Creating Ant 25 21
+Creating Ant 29 18
+Creating Ant 27 15
+Creating Ant 36 23
+moving ant (33 17) - randomly -->NORTH
+moving ant (35 20) - randomly -->EAST
+moving ant (36 15) - randomly -->NORTH
+moving ant (25 21) - randomly -->NORTH
+moving ant (29 18) - randomly -->SOUTH
+moving ant (27 15) - randomly -->WEST
+moving ant (36 23) - randomly -->SOUTH
+Creating Ant 35 21
+Creating Ant 32 17
+Creating Ant 24 21
+Creating Ant 27 14
+Creating Ant 35 15
+Creating Ant 37 23
+Creating Ant 30 18
+moving ant (35 21) - randomly -->SOUTH
+moving ant (32 17) - randomly -->NORTH
+moving ant (24 21) - randomly -->SOUTH
+moving ant (27 14) - randomly -->EAST
+moving ant (35 15) - randomly -->SOUTH
+moving ant (37 23) - randomly -->EAST
+moving ant (30 18) - randomly -->SOUTH
+Creating Ant 37 24
+Creating Ant 36 15
+Creating Ant 25 21
+Creating Ant 27 15
+Creating Ant 31 18
+Creating Ant 36 21
+Creating Ant 31 17
+moving ant (37 24) - randomly -->NORTH
+moving ant (36 15) - randomly -->EAST
+moving ant (25 21) - randomly -->SOUTH
+moving ant (27 15) - randomly -->SOUTH
+moving ant (31 18) - randomly -->SOUTH
+moving ant (36 21) - randomly -->WEST
+moving ant (31 17) - randomly -->WEST
+Creating Ant 32 18
+Creating Ant 26 21
+Creating Ant 36 24
+Creating Ant 28 15
+Creating Ant 36 16
+Creating Ant 31 16
+Creating Ant 36 20
+moving ant (32 18) - randomly -->WEST
+moving ant (26 21) - randomly -->SOUTH
+moving ant (36 24) - randomly -->SOUTH
+moving ant (28 15) - randomly -->NORTH
+moving ant (36 16) - randomly -->EAST
+moving ant (31 16) - randomly -->WEST
+moving ant (36 20) - randomly -->SOUTH
+Creating Ant 31 15
+Creating Ant 37 24
+Creating Ant 32 17
+Creating Ant 27 21
+Creating Ant 27 15
+Creating Ant 36 17
+Creating Ant 37 20
+moving ant (31 15) - randomly -->NORTH
+moving ant (37 24) - randomly -->SOUTH
+moving ant (32 17) - randomly -->WEST
+moving ant (27 21) - randomly -->WEST
+moving ant (27 15) - randomly -->EAST
+moving ant (36 17) - randomly -->WEST
+moving ant (37 20) - randomly -->EAST
+Creating Ant 30 15
+Creating Ant 27 20
+Creating Ant 32 16
+Creating Ant 27 16
+Creating Ant 38 24
+Creating Ant 36 16
+Creating Ant 37 21
+moving ant (30 15) - randomly -->NORTH
+moving ant (27 20) - randomly -->SOUTH
+moving ant (32 16) - randomly -->WEST
+moving ant (27 16) - randomly -->SOUTH
+moving ant (38 24) - randomly -->SOUTH
+moving ant (36 16) - randomly -->EAST
+moving ant (37 21) - randomly -->EAST
+Creating Ant 29 15
+Creating Ant 39 24
+Creating Ant 28 16
+Creating Ant 36 17
+Creating Ant 28 20
+Creating Ant 32 15
+Creating Ant 37 22
+moving ant (29 15) - randomly -->NORTH
+moving ant (39 24) - randomly -->WEST
+moving ant (28 16) - randomly -->SOUTH
+moving ant (36 17) - randomly -->SOUTH
+moving ant (28 20) - randomly -->SOUTH
+moving ant (32 15) - randomly -->SOUTH
+moving ant (37 22) - randomly -->WEST
+Creating Ant 28 15
+Creating Ant 37 17
+Creating Ant 39 23
+Creating Ant 29 16
+Creating Ant 37 21
+Creating Ant 29 20
+Creating Ant 33 15
+moving ant (28 15) - randomly -->EAST
+moving ant (37 17) - randomly -->EAST
+moving ant (39 23) - randomly -->WEST
+moving ant (29 16) - randomly -->WEST
+moving ant (37 21) - randomly -->NORTH
+moving ant (29 20) - randomly -->SOUTH
+moving ant (33 15) - randomly -->NORTH
+Creating Ant 29 15
+Creating Ant 30 20
+Creating Ant 28 16
+Creating Ant 39 22
+Creating Ant 37 18
+Creating Ant 32 15
+Creating Ant 36 21
+moving ant (29 15) - randomly -->NORTH
+moving ant (30 20) - randomly -->EAST
+moving ant (28 16) - randomly -->NORTH
+moving ant (39 22) - randomly -->EAST
+moving ant (37 18) - randomly -->SOUTH
+moving ant (32 15) - randomly -->EAST
+moving ant (36 21) - randomly -->WEST
+Creating Ant 32 16
+Creating Ant 28 15
+Creating Ant 27 16
+Creating Ant 30 21
+Creating Ant 39 23
+Creating Ant 38 18
+Creating Ant 36 20
+moving ant (32 16) - randomly -->WEST
+moving ant (28 15) - randomly -->NORTH
+moving ant (27 16) - randomly -->EAST
+moving ant (30 21) - randomly -->SOUTH
+moving ant (39 23) - randomly -->NORTH
+moving ant (38 18) - randomly -->NORTH
+moving ant (36 20) - randomly -->EAST
+Creating Ant 27 17
+Creating Ant 38 23
+Creating Ant 27 15
+Creating Ant 37 18
+Creating Ant 31 21
+Creating Ant 32 15
+Creating Ant 36 21
+moving ant (27 17) - randomly -->WEST
+moving ant (38 23) - randomly -->SOUTH
+moving ant (27 15) - randomly -->NORTH
+moving ant (37 18) - randomly -->SOUTH
+moving ant (31 21) - randomly -->WEST
+moving ant (32 15) - randomly -->WEST
+moving ant (36 21) - randomly -->EAST
+Creating Ant 27 16
+Creating Ant 39 23
+Creating Ant 31 20
+Creating Ant 26 15
+Creating Ant 32 14
+Creating Ant 38 18
+Creating Ant 36 22
+moving ant (27 16) - randomly -->SOUTH
+moving ant (39 23) - randomly -->WEST
+moving ant (31 20) - randomly -->NORTH
+moving ant (26 15) - randomly -->WEST
+moving ant (32 14) - randomly -->SOUTH
+moving ant (38 18) - randomly -->SOUTH
+moving ant (36 22) - randomly -->SOUTH
+Creating Ant 30 20
+Creating Ant 28 16
+Creating Ant 39 22
+Creating Ant 26 14
+Creating Ant 33 14
+Creating Ant 39 18
+Creating Ant 37 22
+moving ant (30 20) - randomly -->SOUTH
+moving ant (28 16) - randomly -->NORTH
+moving ant (39 22) - randomly -->SOUTH
+moving ant (26 14) - randomly -->NORTH
+moving ant (33 14) - randomly -->NORTH
+moving ant (39 18) - randomly -->WEST
+moving ant (37 22) - randomly -->WEST
+Creating Ant 40 22
+Creating Ant 27 16
+Creating Ant 31 20
+Creating Ant 39 17
+Creating Ant 37 21
+Creating Ant 32 14
+Creating Ant 25 14
+moving ant (40 22) - randomly -->SOUTH
+moving ant (27 16) - randomly -->WEST
+moving ant (31 20) - randomly -->NORTH
+moving ant (39 17) - randomly -->SOUTH
+moving ant (37 21) - randomly -->EAST
+moving ant (32 14) - randomly -->NORTH
+moving ant (25 14) - randomly -->EAST
+Creating Ant 31 14
+Creating Ant 40 17
+Creating Ant 41 22
+Creating Ant 30 20
+Creating Ant 27 15
+Creating Ant 25 15
+Creating Ant 37 22
+moving ant (31 14) - randomly -->WEST
+moving ant (40 17) - randomly -->NORTH
+moving ant (41 22) - randomly -->NORTH
+moving ant (30 20) - randomly -->EAST
+moving ant (27 15) - randomly -->WEST
+moving ant (25 15) - randomly -->NORTH
+moving ant (37 22) - randomly -->WEST
+Creating Ant 31 13
+Creating Ant 40 22
+Creating Ant 30 21
+Creating Ant 27 14
+Creating Ant 39 17
+Creating Ant 37 21
+Creating Ant 24 15
+moving ant (31 13) - randomly -->WEST
+moving ant (40 22) - randomly -->NORTH
+moving ant (30 21) - randomly -->EAST
+moving ant (27 14) - randomly -->WEST
+moving ant (39 17) - randomly -->SOUTH
+moving ant (37 21) - randomly -->WEST
+moving ant (24 15) - randomly -->NORTH
+Creating Ant 23 15
+Creating Ant 40 17
+Creating Ant 31 12
+Creating Ant 30 22
+Creating Ant 27 13
+Creating Ant 39 22
+Creating Ant 37 20
+moving ant (23 15) - randomly -->EAST
+moving ant (40 17) - randomly -->EAST
+moving ant (31 12) - randomly -->EAST
+moving ant (30 22) - randomly -->NORTH
+moving ant (27 13) - randomly -->WEST
+moving ant (39 22) - randomly -->SOUTH
+moving ant (37 20) - randomly -->WEST
+Creating Ant 40 18
+Creating Ant 31 13
+Creating Ant 40 22
+Creating Ant 37 19
+Creating Ant 27 12
+Creating Ant 29 22
+Creating Ant 23 16
+moving ant (40 18) - randomly -->EAST
+moving ant (31 13) - randomly -->EAST
+moving ant (40 22) - randomly -->EAST
+moving ant (37 19) - randomly -->WEST
+moving ant (27 12) - randomly -->NORTH
+moving ant (29 22) - randomly -->WEST
+moving ant (23 16) - randomly -->SOUTH
+Creating Ant 40 19
+Creating Ant 24 16
+Creating Ant 31 14
+Creating Ant 40 23
+Creating Ant 26 12
+Creating Ant 37 18
+Creating Ant 29 21
+moving ant (40 19) - randomly -->EAST
+moving ant (24 16) - randomly -->WEST
+moving ant (31 14) - randomly -->NORTH
+moving ant (40 23) - randomly -->EAST
+moving ant (26 12) - randomly -->SOUTH
+moving ant (37 18) - randomly -->EAST
+moving ant (29 21) - randomly -->WEST
+Creating Ant 30 14
+Creating Ant 40 20
+Creating Ant 37 19
+Creating Ant 40 24
+Creating Ant 27 12
+Creating Ant 29 20
+Creating Ant 24 15
+moving ant (30 14) - randomly -->SOUTH
+moving ant (40 20) - randomly -->WEST
+moving ant (37 19) - randomly -->NORTH
+moving ant (40 24) - randomly -->WEST
+moving ant (27 12) - randomly -->WEST
+moving ant (29 20) - randomly -->WEST
+moving ant (24 15) - randomly -->NORTH
+Creating Ant 40 19
+Creating Ant 23 15
+Creating Ant 31 14
+Creating Ant 40 23
+Creating Ant 36 19
+Creating Ant 29 19
+Creating Ant 27 11
+moving ant (40 19) - randomly -->SOUTH
+moving ant (23 15) - randomly -->SOUTH
+moving ant (31 14) - randomly -->SOUTH
+moving ant (40 23) - randomly -->EAST
+moving ant (36 19) - randomly -->EAST
+moving ant (29 19) - randomly -->EAST
+moving ant (27 11) - randomly -->WEST
+Creating Ant 41 19
+Creating Ant 40 24
+Creating Ant 32 14
+Creating Ant 27 10
+Creating Ant 29 20
+Creating Ant 24 15
+Creating Ant 36 20
+moving ant (41 19) - randomly -->WEST
+moving ant (40 24) - randomly -->WEST
+moving ant (32 14) - randomly -->WEST
+moving ant (27 10) - randomly -->EAST
+moving ant (29 20) - randomly -->SOUTH
+moving ant (24 15) - randomly -->SOUTH
+moving ant (36 20) - randomly -->SOUTH
+Creating Ant 41 18
+Creating Ant 40 23
+Creating Ant 30 20
+Creating Ant 27 11
+Creating Ant 25 15
+Creating Ant 37 20
+Creating Ant 32 13
+moving ant (41 18) - randomly -->EAST
+moving ant (40 23) - randomly -->NORTH
+moving ant (30 20) - randomly -->EAST
+moving ant (27 11) - randomly -->SOUTH
+moving ant (25 15) - randomly -->NORTH
+moving ant (37 20) - randomly -->NORTH
+moving ant (32 13) - randomly -->NORTH
+Creating Ant 41 19
+Creating Ant 31 13
+Creating Ant 28 11
+Creating Ant 30 21
+Creating Ant 39 23
+Creating Ant 24 15
+Creating Ant 36 20
+moving ant (41 19) - randomly -->NORTH
+moving ant (31 13) - randomly -->EAST
+moving ant (28 11) - randomly -->EAST
+moving ant (30 21) - randomly -->SOUTH
+moving ant (39 23) - randomly -->NORTH
+moving ant (24 15) - randomly -->EAST
+moving ant (36 20) - randomly -->NORTH
+Creating Ant 40 19
+Creating Ant 24 16
+Creating Ant 35 20
+Creating Ant 31 14
+Creating Ant 28 12
+Creating Ant 38 23
+Creating Ant 31 21
+moving ant (40 19) - randomly -->WEST
+moving ant (24 16) - randomly -->NORTH
+moving ant (35 20) - randomly -->EAST
+moving ant (31 14) - randomly -->SOUTH
+moving ant (28 12) - randomly -->EAST
+moving ant (38 23) - randomly -->NORTH
+moving ant (31 21) - randomly -->SOUTH
+Creating Ant 35 21
+Creating Ant 40 18
+Creating Ant 28 13
+Creating Ant 32 21
+Creating Ant 32 14
+Creating Ant 37 23
+Creating Ant 23 16
+moving ant (35 21) - randomly -->WEST
+moving ant (40 18) - randomly -->NORTH
+moving ant (28 13) - randomly -->WEST
+moving ant (32 21) - randomly -->SOUTH
+moving ant (32 14) - randomly -->NORTH
+moving ant (37 23) - randomly -->WEST
+moving ant (23 16) - randomly -->SOUTH
